@@ -1,0 +1,224 @@
+[26-Nov-2024 17:26:09 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 19
+[26-Nov-2024 17:26:09 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 31
+[26-Nov-2024 17:26:09 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 31
+[26-Nov-2024 17:26:09 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 31
+[26-Nov-2024 17:26:09 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 32
+[26-Nov-2024 17:26:09 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 32
+[26-Nov-2024 17:26:09 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 33
+[26-Nov-2024 17:26:09 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 34
+[26-Nov-2024 17:26:09 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 35
+[26-Nov-2024 17:26:09 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 45
+[26-Nov-2024 17:26:09 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 59
+[26-Nov-2024 17:26:09 Asia/Tbilisi] PHP Warning:  foreach() argument must be of type array|object, null given in /home/wizerent/public_html/func/invoice.php on line 61
+[26-Nov-2024 17:26:09 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 80
+[26-Nov-2024 17:26:09 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 128
+[26-Nov-2024 17:26:09 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 17:26:09 Asia/Tbilisi] PHP Warning:  readfile(invice.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 17:27:03 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 131
+[26-Nov-2024 17:27:03 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 132
+[26-Nov-2024 17:27:03 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 133
+[27-Nov-2024 13:06:47 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 131
+[27-Nov-2024 13:06:47 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 132
+[27-Nov-2024 13:06:47 Asia/Tbilisi] PHP Warning:  readfile(invice2.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 133
+[27-Nov-2024 13:11:51 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 131
+[27-Nov-2024 13:11:51 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 132
+[27-Nov-2024 13:11:51 Asia/Tbilisi] PHP Warning:  readfile(invice2.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 133
+[27-Nov-2024 13:12:01 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 131
+[27-Nov-2024 13:12:01 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 132
+[27-Nov-2024 13:12:01 Asia/Tbilisi] PHP Warning:  readfile(invice2.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 133
+[27-Nov-2024 14:06:01 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 131
+[27-Nov-2024 14:06:01 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 132
+[27-Nov-2024 14:06:01 Asia/Tbilisi] PHP Warning:  readfile(invice2.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 133
+[27-Nov-2024 15:49:12 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 22
+[27-Nov-2024 15:49:12 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 34
+[27-Nov-2024 15:49:12 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 34
+[27-Nov-2024 15:49:12 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 34
+[27-Nov-2024 15:49:12 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 35
+[27-Nov-2024 15:49:12 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 35
+[27-Nov-2024 15:49:12 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 36
+[27-Nov-2024 15:49:12 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 37
+[27-Nov-2024 15:49:12 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 38
+[27-Nov-2024 15:49:12 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 48
+[27-Nov-2024 15:49:12 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 62
+[27-Nov-2024 15:49:12 Asia/Tbilisi] PHP Warning:  foreach() argument must be of type array|object, null given in /home/wizerent/public_html/func/invoice.php on line 64
+[27-Nov-2024 15:49:12 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 83
+[27-Nov-2024 15:49:12 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 131
+[27-Nov-2024 15:49:12 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 132
+[27-Nov-2024 15:49:12 Asia/Tbilisi] PHP Warning:  readfile(invice.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 133
+[27-Nov-2024 15:49:21 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 131
+[27-Nov-2024 15:49:21 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 132
+[27-Nov-2024 15:49:21 Asia/Tbilisi] PHP Warning:  readfile(invice3.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 133
+[27-Nov-2024 15:49:34 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 131
+[27-Nov-2024 15:49:34 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 132
+[27-Nov-2024 15:49:34 Asia/Tbilisi] PHP Warning:  readfile(invice2.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 133
+[27-Nov-2024 15:49:52 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 131
+[27-Nov-2024 15:49:52 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 132
+[27-Nov-2024 15:49:52 Asia/Tbilisi] PHP Warning:  readfile(invice1.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 133
+[27-Nov-2024 15:50:03 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 131
+[27-Nov-2024 15:50:03 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 132
+[27-Nov-2024 15:50:03 Asia/Tbilisi] PHP Warning:  readfile(invice2.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 133
+[30-Nov-2024 23:15:40 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 22
+[30-Nov-2024 23:15:40 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 34
+[30-Nov-2024 23:15:40 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 34
+[30-Nov-2024 23:15:40 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 34
+[30-Nov-2024 23:15:40 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 35
+[30-Nov-2024 23:15:40 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 35
+[30-Nov-2024 23:15:40 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 36
+[30-Nov-2024 23:15:40 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 37
+[30-Nov-2024 23:15:40 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 38
+[30-Nov-2024 23:15:40 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 48
+[30-Nov-2024 23:15:40 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 62
+[30-Nov-2024 23:15:40 Asia/Tbilisi] PHP Warning:  foreach() argument must be of type array|object, null given in /home/wizerent/public_html/func/invoice.php on line 64
+[30-Nov-2024 23:15:40 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 83
+[30-Nov-2024 23:15:40 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 131
+[30-Nov-2024 23:15:40 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 132
+[30-Nov-2024 23:15:40 Asia/Tbilisi] PHP Warning:  readfile(invice.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 133
+[30-Nov-2024 23:20:38 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 22
+[30-Nov-2024 23:20:38 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 34
+[30-Nov-2024 23:20:38 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 34
+[30-Nov-2024 23:20:38 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 34
+[30-Nov-2024 23:20:38 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 35
+[30-Nov-2024 23:20:38 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 35
+[30-Nov-2024 23:20:38 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 36
+[30-Nov-2024 23:20:38 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 37
+[30-Nov-2024 23:20:38 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 38
+[30-Nov-2024 23:20:38 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 48
+[30-Nov-2024 23:20:38 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 62
+[30-Nov-2024 23:20:38 Asia/Tbilisi] PHP Warning:  foreach() argument must be of type array|object, null given in /home/wizerent/public_html/func/invoice.php on line 64
+[30-Nov-2024 23:20:38 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 83
+[30-Nov-2024 23:20:38 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 131
+[30-Nov-2024 23:20:38 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 132
+[30-Nov-2024 23:20:38 Asia/Tbilisi] PHP Warning:  readfile(invice.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 133
+[06-Dec-2024 16:34:25 Asia/Tbilisi] PHP Fatal error:  Cannot redeclare encrypt_decrypt() (previously declared in /home/wizerent/public_html/func/functions.php:2) in /home/wizerent/public_html/func/functions.php on line 18
+[06-Dec-2024 16:34:35 Asia/Tbilisi] PHP Fatal error:  Cannot redeclare encrypt_decrypt() (previously declared in /home/wizerent/public_html/func/functions.php:2) in /home/wizerent/public_html/func/functions.php on line 18
+[06-Dec-2024 16:34:45 Asia/Tbilisi] PHP Fatal error:  Cannot redeclare encrypt_decrypt() (previously declared in /home/wizerent/public_html/func/functions.php:2) in /home/wizerent/public_html/func/functions.php on line 18
+[06-Dec-2024 16:34:47 Asia/Tbilisi] PHP Fatal error:  Cannot redeclare encrypt_decrypt() (previously declared in /home/wizerent/public_html/func/functions.php:2) in /home/wizerent/public_html/func/functions.php on line 18
+[06-Dec-2024 16:34:48 Asia/Tbilisi] PHP Fatal error:  Cannot redeclare encrypt_decrypt() (previously declared in /home/wizerent/public_html/func/functions.php:2) in /home/wizerent/public_html/func/functions.php on line 18
+[06-Dec-2024 16:34:56 Asia/Tbilisi] PHP Fatal error:  Cannot redeclare encrypt_decrypt() (previously declared in /home/wizerent/public_html/func/functions.php:2) in /home/wizerent/public_html/func/functions.php on line 18
+[06-Dec-2024 16:35:11 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 69
+[06-Dec-2024 16:35:11 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 133
+[06-Dec-2024 16:35:11 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 134
+[06-Dec-2024 16:35:11 Asia/Tbilisi] PHP Warning:  readfile(invice6.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 16:35:22 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 69
+[06-Dec-2024 16:35:23 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 133
+[06-Dec-2024 16:35:23 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 134
+[06-Dec-2024 16:35:23 Asia/Tbilisi] PHP Warning:  readfile(invice6.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 16:35:33 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 69
+[06-Dec-2024 16:35:34 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 133
+[06-Dec-2024 16:35:34 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 134
+[06-Dec-2024 16:35:34 Asia/Tbilisi] PHP Warning:  readfile(invice6.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 16:35:56 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 69
+[06-Dec-2024 16:35:56 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 133
+[06-Dec-2024 16:35:56 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 134
+[06-Dec-2024 16:35:56 Asia/Tbilisi] PHP Warning:  readfile(invice6.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 16:38:08 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 71
+[06-Dec-2024 16:38:09 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 16:38:09 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 136
+[06-Dec-2024 16:38:09 Asia/Tbilisi] PHP Warning:  readfile(invice6.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 16:38:43 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 71
+[06-Dec-2024 16:38:44 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 16:38:44 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 136
+[06-Dec-2024 16:38:44 Asia/Tbilisi] PHP Warning:  readfile(invice6.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 16:38:47 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 71
+[06-Dec-2024 16:38:47 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 16:38:47 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 136
+[06-Dec-2024 16:38:47 Asia/Tbilisi] PHP Warning:  readfile(invice6.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 16:38:55 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 71
+[06-Dec-2024 16:38:55 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 16:38:55 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 136
+[06-Dec-2024 16:38:55 Asia/Tbilisi] PHP Warning:  readfile(invice6.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 16:39:07 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 71
+[06-Dec-2024 16:39:07 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 16:39:07 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 136
+[06-Dec-2024 16:39:07 Asia/Tbilisi] PHP Warning:  readfile(invice6.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 16:39:15 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 71
+[06-Dec-2024 16:39:15 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 16:39:15 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 136
+[06-Dec-2024 16:39:15 Asia/Tbilisi] PHP Warning:  readfile(invice6.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 16:40:03 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 71
+[06-Dec-2024 16:40:03 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 16:40:03 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 136
+[06-Dec-2024 16:40:03 Asia/Tbilisi] PHP Warning:  readfile(invice6.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 16:40:09 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 71
+[06-Dec-2024 16:40:09 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 16:40:09 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 136
+[06-Dec-2024 16:40:09 Asia/Tbilisi] PHP Warning:  readfile(invice6.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 16:40:15 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 71
+[06-Dec-2024 16:40:16 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 16:40:16 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 136
+[06-Dec-2024 16:40:16 Asia/Tbilisi] PHP Warning:  readfile(invice6.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 16:46:32 Asia/Tbilisi] PHP Warning:  Undefined array key "Website" in /home/wizerent/public_html/func/invoice.php on line 32
+[06-Dec-2024 16:46:32 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 71
+[06-Dec-2024 16:46:33 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 16:46:33 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 136
+[06-Dec-2024 16:46:33 Asia/Tbilisi] PHP Warning:  readfile(invice7.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 16:46:44 Asia/Tbilisi] PHP Warning:  Undefined array key "Website" in /home/wizerent/public_html/func/invoice.php on line 32
+[06-Dec-2024 16:46:44 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 71
+[06-Dec-2024 16:46:44 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 16:46:44 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 136
+[06-Dec-2024 16:46:44 Asia/Tbilisi] PHP Warning:  readfile(invice7.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 16:47:14 Asia/Tbilisi] PHP Warning:  Undefined array key "Website" in /home/wizerent/public_html/func/invoice.php on line 32
+[06-Dec-2024 16:47:14 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 71
+[06-Dec-2024 16:47:15 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 16:47:15 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 136
+[06-Dec-2024 16:47:15 Asia/Tbilisi] PHP Warning:  readfile(invice7.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 16:48:20 Asia/Tbilisi] PHP Warning:  Undefined array key "Website" in /home/wizerent/public_html/func/invoice.php on line 32
+[06-Dec-2024 16:48:20 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 71
+[06-Dec-2024 16:48:20 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 16:48:20 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 136
+[06-Dec-2024 16:48:20 Asia/Tbilisi] PHP Warning:  readfile(invice7.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 16:48:33 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 71
+[06-Dec-2024 16:48:34 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 16:48:34 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 136
+[06-Dec-2024 16:48:34 Asia/Tbilisi] PHP Warning:  readfile(invice7.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 17:02:13 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 17
+[06-Dec-2024 17:02:13 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 26
+[06-Dec-2024 17:02:13 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 38
+[06-Dec-2024 17:02:13 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 38
+[06-Dec-2024 17:02:13 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 38
+[06-Dec-2024 17:02:13 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 39
+[06-Dec-2024 17:02:13 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 39
+[06-Dec-2024 17:02:13 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 40
+[06-Dec-2024 17:02:13 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 41
+[06-Dec-2024 17:02:13 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 42
+[06-Dec-2024 17:02:13 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 52
+[06-Dec-2024 17:02:13 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 66
+[06-Dec-2024 17:02:13 Asia/Tbilisi] PHP Warning:  foreach() argument must be of type array|object, null given in /home/wizerent/public_html/func/invoice.php on line 68
+[06-Dec-2024 17:02:13 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 87
+[06-Dec-2024 17:02:13 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 17:02:13 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 136
+[06-Dec-2024 17:02:13 Asia/Tbilisi] PHP Warning:  readfile(invice.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 17:58:37 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 17:58:37 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 136
+[06-Dec-2024 17:58:37 Asia/Tbilisi] PHP Warning:  readfile(invice7.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 18:05:53 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 73
+[06-Dec-2024 18:05:54 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 18:05:54 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 138
+[06-Dec-2024 18:05:54 Asia/Tbilisi] PHP Warning:  readfile(invice7.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 139
+[06-Dec-2024 18:06:30 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 73
+[06-Dec-2024 18:06:31 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 18:06:31 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 138
+[06-Dec-2024 18:06:31 Asia/Tbilisi] PHP Warning:  readfile(invice7.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 139
+[06-Dec-2024 18:08:19 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 18:08:19 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 138
+[06-Dec-2024 18:08:19 Asia/Tbilisi] PHP Warning:  readfile(invice8.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 139
+[06-Dec-2024 18:08:38 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 18:08:38 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 138
+[06-Dec-2024 18:08:38 Asia/Tbilisi] PHP Warning:  readfile(invice8.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 139
+[06-Dec-2024 19:09:15 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 17
+[06-Dec-2024 19:09:15 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 26
+[06-Dec-2024 19:09:15 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 38
+[06-Dec-2024 19:09:15 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 38
+[06-Dec-2024 19:09:15 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 38
+[06-Dec-2024 19:09:15 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 39
+[06-Dec-2024 19:09:15 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 39
+[06-Dec-2024 19:09:15 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 40
+[06-Dec-2024 19:09:15 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 41
+[06-Dec-2024 19:09:15 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 42
+[06-Dec-2024 19:09:15 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 52
+[06-Dec-2024 19:09:15 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 67
+[06-Dec-2024 19:09:15 Asia/Tbilisi] PHP Warning:  foreach() argument must be of type array|object, null given in /home/wizerent/public_html/func/invoice.php on line 69
+[06-Dec-2024 19:09:15 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/invoice.php on line 89
+[06-Dec-2024 19:09:16 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 19:09:16 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 138
+[06-Dec-2024 19:09:16 Asia/Tbilisi] PHP Warning:  readfile(invice.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 139

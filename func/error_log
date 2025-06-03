@@ -1,0 +1,681 @@
+[26-Nov-2024 15:29:58 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'id' doesn't have a default value in /home/wizerent/public_html/func/getsms.php:8
+Stack trace:
+#0 /home/wizerent/public_html/func/getsms.php(8): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(5): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/getsms.php on line 8
+[26-Nov-2024 15:30:23 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'personalid' in 'where clause' in /home/wizerent/public_html/func/register.php:17
+Stack trace:
+#0 /home/wizerent/public_html/func/register.php(17): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(5): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/register.php on line 17
+[26-Nov-2024 15:30:28 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'personalid' in 'where clause' in /home/wizerent/public_html/func/register.php:17
+Stack trace:
+#0 /home/wizerent/public_html/func/register.php(17): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(5): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/register.php on line 17
+[26-Nov-2024 15:34:17 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'date' in 'field list' in /home/wizerent/public_html/func/register.php:30
+Stack trace:
+#0 /home/wizerent/public_html/func/register.php(30): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(5): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/register.php on line 30
+[26-Nov-2024 15:34:46 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'city' doesn't have a default value in /home/wizerent/public_html/func/register.php:30
+Stack trace:
+#0 /home/wizerent/public_html/func/register.php(30): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(5): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/register.php on line 30
+[26-Nov-2024 16:03:26 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'city' in 'field list' in /home/wizerent/public_html/func/addorder.php:19
+Stack trace:
+#0 /home/wizerent/public_html/func/addorder.php(19): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(6): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/addorder.php on line 19
+[26-Nov-2024 16:04:13 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'city' in 'field list' in /home/wizerent/public_html/func/addorder.php:19
+Stack trace:
+#0 /home/wizerent/public_html/func/addorder.php(19): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(6): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/addorder.php on line 19
+[26-Nov-2024 16:04:20 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'city' in 'field list' in /home/wizerent/public_html/func/addorder.php:19
+Stack trace:
+#0 /home/wizerent/public_html/func/addorder.php(19): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(6): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/addorder.php on line 19
+[26-Nov-2024 16:07:08 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'city' in 'field list' in /home/wizerent/public_html/func/addorder.php:19
+Stack trace:
+#0 /home/wizerent/public_html/func/addorder.php(19): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(6): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/addorder.php on line 19
+[26-Nov-2024 16:07:57 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'city' in 'field list' in /home/wizerent/public_html/func/addorder.php:19
+Stack trace:
+#0 /home/wizerent/public_html/func/addorder.php(19): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(6): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/addorder.php on line 19
+[26-Nov-2024 16:09:02 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payid' in 'field list' in /home/wizerent/public_html/func/addorder.php:19
+Stack trace:
+#0 /home/wizerent/public_html/func/addorder.php(19): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(6): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/addorder.php on line 19
+[26-Nov-2024 16:09:21 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'details' in 'field list' in /home/wizerent/public_html/func/addorder.php:19
+Stack trace:
+#0 /home/wizerent/public_html/func/addorder.php(19): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(6): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/addorder.php on line 19
+[26-Nov-2024 16:10:32 Asia/Tbilisi] PHP Warning:  Array to string conversion in /home/wizerent/public_html/func/addorder.php on line 24
+[26-Nov-2024 16:10:32 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'code' in 'field list' in /home/wizerent/public_html/func/addorder.php:37
+Stack trace:
+#0 /home/wizerent/public_html/func/addorder.php(37): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(6): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/addorder.php on line 37
+[26-Nov-2024 16:11:16 Asia/Tbilisi] PHP Warning:  Array to string conversion in /home/wizerent/public_html/func/addorder.php on line 24
+[26-Nov-2024 16:11:16 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 't2.namege' in 'field list' in /home/wizerent/public_html/func/addorder.php:33
+Stack trace:
+#0 /home/wizerent/public_html/func/addorder.php(33): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(6): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/addorder.php on line 33
+[26-Nov-2024 16:11:35 Asia/Tbilisi] PHP Warning:  Array to string conversion in /home/wizerent/public_html/func/addorder.php on line 24
+[26-Nov-2024 16:11:35 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '20241126161136' for key 'orders.invoice_3' in /home/wizerent/public_html/func/addorder.php:24
+Stack trace:
+#0 /home/wizerent/public_html/func/addorder.php(24): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(6): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/addorder.php on line 24
+[26-Nov-2024 16:12:09 Asia/Tbilisi] PHP Warning:  Array to string conversion in /home/wizerent/public_html/func/addorder.php on line 24
+[26-Nov-2024 16:12:09 Asia/Tbilisi] PHP Warning:  Undefined array key "pricecard" in /home/wizerent/public_html/func/addorder.php on line 35
+[26-Nov-2024 16:12:09 Asia/Tbilisi] PHP Warning:  Undefined array key "pricecard" in /home/wizerent/public_html/func/addorder.php on line 35
+[26-Nov-2024 16:12:09 Asia/Tbilisi] PHP Warning:  Undefined array key "nameen" in /home/wizerent/public_html/func/addorder.php on line 39
+[26-Nov-2024 16:12:09 Asia/Tbilisi] PHP Warning:  Undefined array key "optioncode" in /home/wizerent/public_html/func/addorder.php on line 39
+[26-Nov-2024 16:12:09 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'item' in 'field list' in /home/wizerent/public_html/func/addorder.php:39
+Stack trace:
+#0 /home/wizerent/public_html/func/addorder.php(39): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(6): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/addorder.php on line 39
+[26-Nov-2024 16:12:34 Asia/Tbilisi] PHP Warning:  Array to string conversion in /home/wizerent/public_html/func/addorder.php on line 24
+[26-Nov-2024 16:12:34 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '20241126161236' for key 'orders.invoice_3' in /home/wizerent/public_html/func/addorder.php:24
+Stack trace:
+#0 /home/wizerent/public_html/func/addorder.php(24): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(6): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/addorder.php on line 24
+[26-Nov-2024 16:13:00 Asia/Tbilisi] PHP Warning:  Array to string conversion in /home/wizerent/public_html/func/addorder.php on line 24
+[26-Nov-2024 16:13:00 Asia/Tbilisi] PHP Warning:  Undefined array key "pricecard" in /home/wizerent/public_html/func/addorder.php on line 35
+[26-Nov-2024 16:13:00 Asia/Tbilisi] PHP Warning:  Undefined array key "pricecard" in /home/wizerent/public_html/func/addorder.php on line 35
+[26-Nov-2024 16:13:00 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'total' in 'field list' in /home/wizerent/public_html/func/addorder.php:47
+Stack trace:
+#0 /home/wizerent/public_html/func/addorder.php(47): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(6): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/addorder.php on line 47
+[26-Nov-2024 16:13:23 Asia/Tbilisi] PHP Warning:  Array to string conversion in /home/wizerent/public_html/func/addorder.php on line 24
+[26-Nov-2024 16:13:23 Asia/Tbilisi] PHP Warning:  Undefined array key "pricecard" in /home/wizerent/public_html/func/addorder.php on line 35
+[26-Nov-2024 16:13:23 Asia/Tbilisi] PHP Warning:  Undefined array key "pricecard" in /home/wizerent/public_html/func/addorder.php on line 35
+[26-Nov-2024 16:13:23 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/addorder.php on line 60
+[26-Nov-2024 16:13:23 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/addorder.php on line 91
+[26-Nov-2024 16:13:56 Asia/Tbilisi] PHP Warning:  Undefined array key "pricecard" in /home/wizerent/public_html/func/addorder.php on line 35
+[26-Nov-2024 16:13:56 Asia/Tbilisi] PHP Warning:  Undefined array key "pricecard" in /home/wizerent/public_html/func/addorder.php on line 35
+[26-Nov-2024 16:13:56 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/addorder.php on line 60
+[26-Nov-2024 16:13:56 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/addorder.php on line 91
+[26-Nov-2024 16:14:39 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/addorder.php on line 60
+[26-Nov-2024 16:14:39 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/addorder.php on line 91
+[26-Nov-2024 16:16:12 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/addorder.php on line 60
+[26-Nov-2024 16:16:12 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/addorder.php on line 91
+[26-Nov-2024 16:24:58 Asia/Tbilisi] PHP Warning:  Undefined variable $L in /home/wizerent/public_html/func/getitems.php on line 15
+[26-Nov-2024 16:24:58 Asia/Tbilisi] PHP Warning:  Undefined variable $r2 in /home/wizerent/public_html/func/getitems.php on line 15
+[26-Nov-2024 16:24:58 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/getitems.php on line 15
+[26-Nov-2024 16:24:58 Asia/Tbilisi] PHP Warning:  Undefined variable $r2 in /home/wizerent/public_html/func/getitems.php on line 15
+[26-Nov-2024 16:24:58 Asia/Tbilisi] PHP Warning:  Trying to access array offset on value of type null in /home/wizerent/public_html/func/getitems.php on line 15
+[26-Nov-2024 16:24:58 Asia/Tbilisi] PHP Warning:  Undefined variable $img in /home/wizerent/public_html/func/getitems.php on line 15
+[26-Nov-2024 16:35:08 Asia/Tbilisi] PHP Warning:  require_once(/home/admin/domains/iland.ge/public_html/db_open.php): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 7
+[26-Nov-2024 16:35:08 Asia/Tbilisi] PHP Fatal error:  Uncaught Error: Failed opening required '/home/admin/domains/iland.ge/public_html/db_open.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wizerent/public_html/func/invoice.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wizerent/public_html/func/invoice.php on line 7
+[26-Nov-2024 16:37:58 Asia/Tbilisi] PHP Warning:  require_once(/home/admin/domains/iland.ge/public_html/db_open.php): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 7
+[26-Nov-2024 16:37:58 Asia/Tbilisi] PHP Fatal error:  Uncaught Error: Failed opening required '/home/admin/domains/iland.ge/public_html/db_open.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wizerent/public_html/func/invoice.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wizerent/public_html/func/invoice.php on line 7
+[26-Nov-2024 16:38:17 Asia/Tbilisi] PHP Warning:  Undefined variable $p2 in /home/wizerent/public_html/func/invoice.php on line 9
+[26-Nov-2024 16:38:17 Asia/Tbilisi] PHP Warning:  Undefined array key "companyname" in /home/wizerent/public_html/func/invoice.php on line 33
+[26-Nov-2024 16:38:17 Asia/Tbilisi] PHP Warning:  Undefined array key "companyid" in /home/wizerent/public_html/func/invoice.php on line 34
+[26-Nov-2024 16:38:17 Asia/Tbilisi] PHP Warning:  Undefined array key "personalid" in /home/wizerent/public_html/func/invoice.php on line 34
+[26-Nov-2024 16:38:17 Asia/Tbilisi] PHP Warning:  Undefined array key "address" in /home/wizerent/public_html/func/invoice.php on line 36
+[26-Nov-2024 16:38:17 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 't2.nameen' in 'field list' in /home/wizerent/public_html/func/invoice.php:62
+Stack trace:
+#0 /home/wizerent/public_html/func/invoice.php(62): mysqli_query()
+#1 {main}
+  thrown in /home/wizerent/public_html/func/invoice.php on line 62
+[26-Nov-2024 16:38:27 Asia/Tbilisi] PHP Warning:  Undefined variable $p2 in /home/wizerent/public_html/func/invoice.php on line 9
+[26-Nov-2024 16:38:27 Asia/Tbilisi] PHP Warning:  Undefined array key "companyname" in /home/wizerent/public_html/func/invoice.php on line 33
+[26-Nov-2024 16:38:27 Asia/Tbilisi] PHP Warning:  Undefined array key "companyid" in /home/wizerent/public_html/func/invoice.php on line 34
+[26-Nov-2024 16:38:27 Asia/Tbilisi] PHP Warning:  Undefined array key "personalid" in /home/wizerent/public_html/func/invoice.php on line 34
+[26-Nov-2024 16:38:27 Asia/Tbilisi] PHP Warning:  Undefined array key "address" in /home/wizerent/public_html/func/invoice.php on line 36
+[26-Nov-2024 16:38:27 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 't2.nameen' in 'field list' in /home/wizerent/public_html/func/invoice.php:62
+Stack trace:
+#0 /home/wizerent/public_html/func/invoice.php(62): mysqli_query()
+#1 {main}
+  thrown in /home/wizerent/public_html/func/invoice.php on line 62
+[26-Nov-2024 16:39:02 Asia/Tbilisi] PHP Warning:  Undefined variable $p2 in /home/wizerent/public_html/func/invoice.php on line 9
+[26-Nov-2024 16:39:02 Asia/Tbilisi] PHP Warning:  Undefined array key "companyname" in /home/wizerent/public_html/func/invoice.php on line 33
+[26-Nov-2024 16:39:02 Asia/Tbilisi] PHP Warning:  Undefined array key "companyid" in /home/wizerent/public_html/func/invoice.php on line 34
+[26-Nov-2024 16:39:02 Asia/Tbilisi] PHP Warning:  Undefined array key "personalid" in /home/wizerent/public_html/func/invoice.php on line 34
+[26-Nov-2024 16:39:02 Asia/Tbilisi] PHP Warning:  Undefined array key "address" in /home/wizerent/public_html/func/invoice.php on line 36
+[26-Nov-2024 16:39:02 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 't2.nameen' in 'field list' in /home/wizerent/public_html/func/invoice.php:62
+Stack trace:
+#0 /home/wizerent/public_html/func/invoice.php(62): mysqli_query()
+#1 {main}
+  thrown in /home/wizerent/public_html/func/invoice.php on line 62
+[26-Nov-2024 16:43:50 Asia/Tbilisi] PHP Warning:  Undefined variable $p2 in /home/wizerent/public_html/func/invoice.php on line 9
+[26-Nov-2024 16:43:50 Asia/Tbilisi] PHP Warning:  Undefined array key "companyname" in /home/wizerent/public_html/func/invoice.php on line 33
+[26-Nov-2024 16:43:50 Asia/Tbilisi] PHP Warning:  Undefined array key "companyid" in /home/wizerent/public_html/func/invoice.php on line 34
+[26-Nov-2024 16:43:50 Asia/Tbilisi] PHP Warning:  Undefined array key "personalid" in /home/wizerent/public_html/func/invoice.php on line 34
+[26-Nov-2024 16:43:50 Asia/Tbilisi] PHP Warning:  Undefined array key "address" in /home/wizerent/public_html/func/invoice.php on line 36
+[26-Nov-2024 16:43:50 Asia/Tbilisi] PHP Warning:  Undefined array key "salesprice" in /home/wizerent/public_html/func/invoice.php on line 68
+[26-Nov-2024 16:43:50 Asia/Tbilisi] PHP Warning:  require_once(/home/admin/domains/webdoors.ge/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 114
+[26-Nov-2024 16:43:50 Asia/Tbilisi] PHP Fatal error:  Uncaught Error: Failed opening required '/home/admin/domains/webdoors.ge/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wizerent/public_html/func/invoice.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/wizerent/public_html/func/invoice.php on line 114
+[26-Nov-2024 16:44:31 Asia/Tbilisi] PHP Warning:  Undefined variable $p2 in /home/wizerent/public_html/func/invoice.php on line 9
+[26-Nov-2024 16:44:31 Asia/Tbilisi] PHP Warning:  Undefined array key "personalid" in /home/wizerent/public_html/func/invoice.php on line 34
+[26-Nov-2024 16:44:31 Asia/Tbilisi] PHP Warning:  Undefined array key "address" in /home/wizerent/public_html/func/invoice.php on line 36
+[26-Nov-2024 16:44:31 Asia/Tbilisi] PHP Warning:  Undefined array key "salesprice" in /home/wizerent/public_html/func/invoice.php on line 68
+[26-Nov-2024 16:44:31 Asia/Tbilisi] PHP Warning:  require_once(/home/admin/domains/webdoors.ge/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 114
+[26-Nov-2024 16:44:31 Asia/Tbilisi] PHP Fatal error:  Uncaught Error: Failed opening required '/home/admin/domains/webdoors.ge/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wizerent/public_html/func/invoice.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/wizerent/public_html/func/invoice.php on line 114
+[26-Nov-2024 16:44:46 Asia/Tbilisi] PHP Warning:  Undefined variable $p2 in /home/wizerent/public_html/func/invoice.php on line 9
+[26-Nov-2024 16:44:46 Asia/Tbilisi] PHP Warning:  Undefined array key "address" in /home/wizerent/public_html/func/invoice.php on line 36
+[26-Nov-2024 16:44:46 Asia/Tbilisi] PHP Warning:  Undefined array key "salesprice" in /home/wizerent/public_html/func/invoice.php on line 68
+[26-Nov-2024 16:44:46 Asia/Tbilisi] PHP Warning:  require_once(/home/admin/domains/webdoors.ge/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 114
+[26-Nov-2024 16:44:46 Asia/Tbilisi] PHP Fatal error:  Uncaught Error: Failed opening required '/home/admin/domains/webdoors.ge/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wizerent/public_html/func/invoice.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/wizerent/public_html/func/invoice.php on line 114
+[26-Nov-2024 16:45:22 Asia/Tbilisi] PHP Warning:  Undefined variable $p2 in /home/wizerent/public_html/func/invoice.php on line 9
+[26-Nov-2024 16:45:22 Asia/Tbilisi] PHP Warning:  Undefined array key "salesprice" in /home/wizerent/public_html/func/invoice.php on line 68
+[26-Nov-2024 16:45:22 Asia/Tbilisi] PHP Warning:  require_once(/home/admin/domains/webdoors.ge/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 114
+[26-Nov-2024 16:45:22 Asia/Tbilisi] PHP Fatal error:  Uncaught Error: Failed opening required '/home/admin/domains/webdoors.ge/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wizerent/public_html/func/invoice.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/wizerent/public_html/func/invoice.php on line 114
+[26-Nov-2024 16:45:36 Asia/Tbilisi] PHP Warning:  Undefined array key "salesprice" in /home/wizerent/public_html/func/invoice.php on line 65
+[26-Nov-2024 16:45:36 Asia/Tbilisi] PHP Warning:  require_once(/home/admin/domains/webdoors.ge/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 111
+[26-Nov-2024 16:45:36 Asia/Tbilisi] PHP Fatal error:  Uncaught Error: Failed opening required '/home/admin/domains/webdoors.ge/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wizerent/public_html/func/invoice.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/wizerent/public_html/func/invoice.php on line 111
+[26-Nov-2024 16:46:04 Asia/Tbilisi] PHP Warning:  require_once(/home/admin/domains/webdoors.ge/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 111
+[26-Nov-2024 16:46:04 Asia/Tbilisi] PHP Fatal error:  Uncaught Error: Failed opening required '/home/admin/domains/webdoors.ge/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wizerent/public_html/func/invoice.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/wizerent/public_html/func/invoice.php on line 111
+[26-Nov-2024 16:46:51 Asia/Tbilisi] PHP Fatal error:  Uncaught Error: Class "Mpdf\Mpdf" not found in /home/wizerent/public_html/func/invoice.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/wizerent/public_html/func/invoice.php on line 113
+[26-Nov-2024 16:48:49 Asia/Tbilisi] PHP Warning:  require(/home/wizerent/public_html/vendor/composer/../paragonie/random_compat/lib/random.php): Failed to open stream: No such file or directory in /home/wizerent/public_html/vendor/composer/autoload_real.php on line 78
+[26-Nov-2024 16:48:49 Asia/Tbilisi] PHP Warning:  require(/home/wizerent/public_html/vendor/composer/../paragonie/random_compat/lib/random.php): Failed to open stream: No such file or directory in /home/wizerent/public_html/vendor/composer/autoload_real.php on line 78
+[26-Nov-2024 16:48:49 Asia/Tbilisi] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wizerent/public_html/vendor/composer/../paragonie/random_compat/lib/random.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wizerent/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/wizerent/public_html/vendor/composer/autoload_real.php(61): composerRequire9e7347892856624073d78bef1f74f0a9()
+#1 /home/wizerent/public_html/vendor/autoload.php(7): ComposerAutoloaderInit9e7347892856624073d78bef1f74f0a9::getLoader()
+#2 /home/wizerent/public_html/func/invoice.php(111): require_once('/home/wizerent/...')
+#3 {main}
+  thrown in /home/wizerent/public_html/vendor/composer/autoload_real.php on line 78
+[26-Nov-2024 16:51:33 Asia/Tbilisi] PHP Warning:  file_get_contents(/var/www/lightspeed.ge/merchant/css/mpdfstyleA4.css): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 121
+[26-Nov-2024 16:51:33 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:51:33 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:51:33 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:51:33 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:51:33 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:51:33 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:51:33 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:51:33 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:51:33 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:51:33 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:51:33 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 127
+[26-Nov-2024 16:51:33 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 128
+[26-Nov-2024 16:51:33 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 16:51:35 Asia/Tbilisi] PHP Warning:  file_get_contents(/var/www/lightspeed.ge/merchant/css/mpdfstyleA4.css): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 121
+[26-Nov-2024 16:51:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:51:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:51:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:51:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:51:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:51:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:51:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:51:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:51:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:51:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:51:35 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 127
+[26-Nov-2024 16:51:35 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 128
+[26-Nov-2024 16:51:35 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 16:53:30 Asia/Tbilisi] PHP Warning:  file_get_contents(/var/www/lightspeed.ge/merchant/css/mpdfstyleA4.css): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 121
+[26-Nov-2024 16:53:30 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:53:30 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:53:30 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:53:30 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:53:30 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:53:30 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:53:30 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:53:30 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:53:30 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:53:30 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:31 Asia/Tbilisi] PHP Warning:  file_get_contents(/var/www/lightspeed.ge/merchant/css/mpdfstyleA4.css): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 122
+[26-Nov-2024 16:55:31 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:31 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:31 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:31 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:31 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:31 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:31 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:31 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:31 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:31 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:31 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 128
+[26-Nov-2024 16:55:31 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 16:55:31 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 16:55:35 Asia/Tbilisi] PHP Warning:  file_get_contents(/var/www/lightspeed.ge/merchant/css/mpdfstyleA4.css): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 122
+[26-Nov-2024 16:55:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:35 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 128
+[26-Nov-2024 16:55:35 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 16:55:35 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 16:55:45 Asia/Tbilisi] PHP Warning:  Undefined variable $stylesheet in /home/wizerent/public_html/func/invoice.php on line 123
+[26-Nov-2024 16:55:45 Asia/Tbilisi] PHP Fatal error:  Uncaught Mpdf\MpdfException: WriteHTML() requires $html be an integer, float, string, boolean or an object with the __toString() magic method. in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:12975
+Stack trace:
+#0 /home/wizerent/public_html/func/invoice.php(123): Mpdf\Mpdf->WriteHTML()
+#1 {main}
+  thrown in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 12975
+[26-Nov-2024 16:55:56 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:56 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:56 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:56 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:56 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:56 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:56 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:56 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:56 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:56 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:56 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 128
+[26-Nov-2024 16:55:56 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 16:55:56 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 16:55:58 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:58 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:58 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:58 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:58 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:58 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:58 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:58 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:58 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:58 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:55:58 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 128
+[26-Nov-2024 16:55:58 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 16:55:58 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 16:56:37 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:56:37 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:56:37 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:56:37 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:56:37 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:56:37 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:56:37 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:56:37 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:56:37 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:56:37 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:56:37 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 16:56:51 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:56:51 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:56:51 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:56:51 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:56:51 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:56:51 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:56:51 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:56:51 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:56:51 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:56:51 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 12:57:44 UTC] PHP Parse error:  syntax error, unexpected identifier "a" in /home/wizerent/public_html/func/invoice.php on line 121
+[26-Nov-2024 12:58:06 UTC] PHP Parse error:  syntax error, unexpected identifier "a" in /home/wizerent/public_html/func/invoice.php on line 121
+[26-Nov-2024 16:58:17 Asia/Tbilisi] PHP Warning:  file_get_contents(/var/www/lightspeed.ge/merchant/css/mpdfstyleA4.css): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 122
+[26-Nov-2024 16:58:17 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:18 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:18 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:18 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:18 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:18 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:18 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:18 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:18 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:18 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:18 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 128
+[26-Nov-2024 16:58:18 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 16:58:18 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 16:58:20 Asia/Tbilisi] PHP Warning:  file_get_contents(/var/www/lightspeed.ge/merchant/css/mpdfstyleA4.css): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 122
+[26-Nov-2024 16:58:20 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:20 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:20 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:20 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:20 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:20 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:20 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:20 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:20 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:20 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:20 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 128
+[26-Nov-2024 16:58:20 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 16:58:20 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 16:58:40 Asia/Tbilisi] PHP Warning:  file_get_contents(/var/www/lightspeed.ge/merchant/css/mpdfstyleA4.css): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 122
+[26-Nov-2024 16:58:40 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:40 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:40 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:40 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:40 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:40 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:40 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:40 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:40 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:40 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:40 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 128
+[26-Nov-2024 16:58:40 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 16:58:40 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 16:58:57 Asia/Tbilisi] PHP Warning:  file_get_contents(/var/www/lightspeed.ge/merchant/css/mpdfstyleA4.css): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 122
+[26-Nov-2024 16:58:57 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:57 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:57 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:57 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:57 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:57 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:57 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:57 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:57 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:57 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:58:57 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 128
+[26-Nov-2024 16:58:57 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 16:58:57 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 16:59:31 Asia/Tbilisi] PHP Warning:  file_get_contents(/var/www/lightspeed.ge/merchant/css/mpdfstyleA4.css): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 122
+[26-Nov-2024 16:59:31 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:31 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:31 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:31 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:31 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:31 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:31 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:31 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:31 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:31 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:31 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 128
+[26-Nov-2024 16:59:31 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 16:59:31 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 16:59:34 Asia/Tbilisi] PHP Warning:  file_get_contents(/var/www/lightspeed.ge/merchant/css/mpdfstyleA4.css): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 122
+[26-Nov-2024 16:59:34 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:34 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:34 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:34 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:34 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:34 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:34 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:34 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:34 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:34 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:34 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 128
+[26-Nov-2024 16:59:34 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 16:59:34 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 16:59:47 Asia/Tbilisi] PHP Warning:  file_get_contents(/var/www/lightspeed.ge/merchant/css/mpdfstyleA4.css): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 122
+[26-Nov-2024 16:59:47 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:47 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:47 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:47 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:47 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:47 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:47 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:47 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:47 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:47 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 16:59:47 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 128
+[26-Nov-2024 16:59:47 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 16:59:47 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 17:00:25 Asia/Tbilisi] PHP Warning:  file_get_contents(/var/www/lightspeed.ge/merchant/css/mpdfstyleA4.css): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 122
+[26-Nov-2024 17:00:25 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:00:25 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:00:25 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:00:25 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:00:25 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:00:25 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:00:25 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:00:25 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:00:25 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:00:25 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:00:25 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 17:00:25 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 131
+[26-Nov-2024 17:00:25 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 132
+[26-Nov-2024 17:02:02 Asia/Tbilisi] PHP Warning:  file_get_contents(/var/www/lightspeed.ge/merchant/css/mpdfstyleA4.css): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 122
+[26-Nov-2024 17:02:25 Asia/Tbilisi] PHP Warning:  file_get_contents(/var/www/lightspeed.ge/merchant/css/mpdfstyleA4.css): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 122
+[26-Nov-2024 17:02:25 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 17:02:25 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 17:02:25 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 131
+[26-Nov-2024 17:02:27 Asia/Tbilisi] PHP Warning:  file_get_contents(/var/www/lightspeed.ge/merchant/css/mpdfstyleA4.css): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 122
+[26-Nov-2024 17:02:27 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 17:02:27 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 17:02:27 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 131
+[26-Nov-2024 17:02:55 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 17:02:55 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 17:02:55 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 131
+[26-Nov-2024 17:03:13 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:03:13 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:03:13 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:03:13 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:03:13 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:03:13 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:03:13 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:03:13 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:03:13 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:03:13 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:04:20 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:04:20 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:04:20 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:04:20 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:04:20 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:04:20 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:04:20 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:04:20 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:04:20 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:04:20 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:05:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:05:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:05:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:05:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:05:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:05:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:05:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:05:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:05:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:05:35 Asia/Tbilisi] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 6462
+[26-Nov-2024 17:06:13 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 17:06:13 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 17:06:13 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 131
+[26-Nov-2024 17:06:23 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 17:06:23 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 17:06:23 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 131
+[26-Nov-2024 17:07:22 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 17:07:22 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 17:07:22 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 131
+[26-Nov-2024 17:07:43 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 17:07:43 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 17:07:43 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 131
+[26-Nov-2024 17:08:04 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 17:08:04 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 17:08:04 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 131
+[26-Nov-2024 17:10:56 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 17:10:56 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 17:10:56 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 131
+[26-Nov-2024 17:11:15 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 17:11:15 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 17:11:15 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 131
+[26-Nov-2024 17:11:39 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 17:11:39 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 17:11:39 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 131
+[26-Nov-2024 17:11:48 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 17:11:48 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 17:11:48 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 131
+[26-Nov-2024 17:12:19 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 128
+[26-Nov-2024 17:12:19 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 17:12:19 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 130
+[26-Nov-2024 17:13:43 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 128
+[26-Nov-2024 17:13:43 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 129
+[26-Nov-2024 17:13:43 Asia/Tbilisi] PHP Warning:  readfile(invice4.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 130
+[06-Dec-2024 15:41:55 Asia/Tbilisi] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/wizerent/public_html/func/updatetable.php on line 2
+[06-Dec-2024 15:41:55 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pass' in 'field list' in /home/wizerent/public_html/func/updatetable.php:15
+Stack trace:
+#0 /home/wizerent/public_html/func/updatetable.php(15): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(6): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/updatetable.php on line 15
+[06-Dec-2024 15:41:58 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 131
+[06-Dec-2024 15:41:58 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 132
+[06-Dec-2024 15:41:58 Asia/Tbilisi] PHP Warning:  readfile(invice5.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 133
+[06-Dec-2024 15:42:33 Asia/Tbilisi] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/wizerent/public_html/func/updatetable.php on line 2
+[06-Dec-2024 15:42:33 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pass' in 'field list' in /home/wizerent/public_html/func/updatetable.php:15
+Stack trace:
+#0 /home/wizerent/public_html/func/updatetable.php(15): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(6): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/updatetable.php on line 15
+[06-Dec-2024 16:30:06 Asia/Tbilisi] PHP Parse error:  Unclosed '(' does not match ']' in /home/wizerent/public_html/func/addorder.php on line 119
+[06-Dec-2024 16:31:03 Asia/Tbilisi] PHP Parse error:  Unmatched '}' in /home/wizerent/public_html/func/addorder.php on line 109
+[06-Dec-2024 16:31:23 Asia/Tbilisi] PHP Parse error:  Unclosed '(' does not match ']' in /home/wizerent/public_html/func/addorder.php on line 121
+[06-Dec-2024 17:59:22 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/getitems.php on line 20
+[06-Dec-2024 18:03:06 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 18:03:06 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 136
+[06-Dec-2024 18:03:06 Asia/Tbilisi] PHP Warning:  readfile(invice8.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 18:03:30 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 71
+[06-Dec-2024 18:03:31 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 18:03:31 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 136
+[06-Dec-2024 18:03:31 Asia/Tbilisi] PHP Warning:  readfile(invice8.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 18:03:56 Asia/Tbilisi] PHP Warning:  Undefined array key "datajson" in /home/wizerent/public_html/func/invoice.php on line 71
+[06-Dec-2024 18:03:57 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 18:03:57 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 136
+[06-Dec-2024 18:03:57 Asia/Tbilisi] PHP Warning:  readfile(invice8.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 18:04:09 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 18:04:09 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 136
+[06-Dec-2024 18:04:09 Asia/Tbilisi] PHP Warning:  readfile(invice8.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 137
+[06-Dec-2024 18:04:49 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 135
+[06-Dec-2024 18:04:49 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 136
+[06-Dec-2024 18:04:49 Asia/Tbilisi] PHP Warning:  readfile(invice8.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 137
+[07-Dec-2024 00:22:02 Asia/Tbilisi] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/wizerent/public_html/func/updatetable.php on line 2
+[07-Dec-2024 00:22:02 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pass' in 'field list' in /home/wizerent/public_html/func/updatetable.php:15
+Stack trace:
+#0 /home/wizerent/public_html/func/updatetable.php(15): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(6): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/updatetable.php on line 15
+[07-Dec-2024 00:22:20 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 137
+[07-Dec-2024 00:22:20 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 138
+[07-Dec-2024 00:22:20 Asia/Tbilisi] PHP Warning:  readfile(invice9.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 139
+[07-Dec-2024 00:23:53 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 137
+[07-Dec-2024 00:23:53 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 138
+[07-Dec-2024 00:23:53 Asia/Tbilisi] PHP Warning:  readfile(invice9.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 139
+[07-Dec-2024 00:24:10 Asia/Tbilisi] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/wizerent/public_html/func/updatetable.php on line 2
+[07-Dec-2024 00:24:10 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pass' in 'field list' in /home/wizerent/public_html/func/updatetable.php:15
+Stack trace:
+#0 /home/wizerent/public_html/func/updatetable.php(15): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(6): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/updatetable.php on line 15
+[07-Dec-2024 00:27:02 Asia/Tbilisi] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/wizerent/public_html/func/updatetable.php on line 2
+[07-Dec-2024 00:27:02 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pass' in 'field list' in /home/wizerent/public_html/func/updatetable.php:15
+Stack trace:
+#0 /home/wizerent/public_html/func/updatetable.php(15): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(6): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/updatetable.php on line 15
+[07-Dec-2024 00:27:12 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 137
+[07-Dec-2024 00:27:12 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 138
+[07-Dec-2024 00:27:12 Asia/Tbilisi] PHP Warning:  readfile(invice9.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 139
+[07-Dec-2024 00:27:21 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 137
+[07-Dec-2024 00:27:21 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 138
+[07-Dec-2024 00:27:21 Asia/Tbilisi] PHP Warning:  readfile(invice9.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 139
+[07-Dec-2024 21:31:23 Asia/Tbilisi] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/wizerent/public_html/func/updatetable.php on line 2
+[07-Dec-2024 21:31:23 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pass' in 'field list' in /home/wizerent/public_html/func/updatetable.php:15
+Stack trace:
+#0 /home/wizerent/public_html/func/updatetable.php(15): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(6): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/updatetable.php on line 15
+[07-Dec-2024 21:31:26 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 137
+[07-Dec-2024 21:31:26 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 138
+[07-Dec-2024 21:31:26 Asia/Tbilisi] PHP Warning:  readfile(invice9.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 139
+[08-Dec-2024 13:51:55 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 137
+[08-Dec-2024 13:51:55 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 138
+[08-Dec-2024 13:51:55 Asia/Tbilisi] PHP Warning:  readfile(invice9.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 139
+[08-Dec-2024 17:35:44 Asia/Tbilisi] PHP Warning:  Undefined array key "pid" in /home/wizerent/public_html/func/addorder.php on line 37
+[08-Dec-2024 17:35:44 Asia/Tbilisi] PHP Warning:  Undefined array key "price" in /home/wizerent/public_html/func/addorder.php on line 39
+[08-Dec-2024 17:35:44 Asia/Tbilisi] PHP Warning:  Undefined array key "pid" in /home/wizerent/public_html/func/addorder.php on line 37
+[08-Dec-2024 17:35:44 Asia/Tbilisi] PHP Warning:  Undefined array key "price" in /home/wizerent/public_html/func/addorder.php on line 39
+[08-Dec-2024 17:35:45 Asia/Tbilisi] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/wizerent/public_html/func/updatetable.php on line 2
+[08-Dec-2024 17:35:45 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pass' in 'field list' in /home/wizerent/public_html/func/updatetable.php:15
+Stack trace:
+#0 /home/wizerent/public_html/func/updatetable.php(15): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(6): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/updatetable.php on line 15
+[08-Dec-2024 17:35:46 Asia/Tbilisi] PHP Warning:  Undefined array key "option" in /home/wizerent/public_html/func/invoice.php on line 72
+[08-Dec-2024 17:35:46 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 73
+[08-Dec-2024 17:35:46 Asia/Tbilisi] PHP Warning:  Undefined array key "price" in /home/wizerent/public_html/func/invoice.php on line 75
+[08-Dec-2024 17:35:46 Asia/Tbilisi] PHP Warning:  Undefined array key "option" in /home/wizerent/public_html/func/invoice.php on line 72
+[08-Dec-2024 17:35:46 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 73
+[08-Dec-2024 17:35:46 Asia/Tbilisi] PHP Warning:  Undefined array key "price" in /home/wizerent/public_html/func/invoice.php on line 75
+[08-Dec-2024 17:35:46 Asia/Tbilisi] PHP Warning:  Undefined array key "option" in /home/wizerent/public_html/func/invoice.php on line 72
+[08-Dec-2024 17:35:46 Asia/Tbilisi] PHP Warning:  Undefined array key "dates" in /home/wizerent/public_html/func/invoice.php on line 73
+[08-Dec-2024 17:35:47 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 137
+[08-Dec-2024 17:35:47 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 138
+[08-Dec-2024 17:35:47 Asia/Tbilisi] PHP Warning:  readfile(invice10.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 139
+[08-Dec-2024 17:36:00 Asia/Tbilisi] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/wizerent/public_html/func/updatetable.php on line 2
+[08-Dec-2024 17:36:00 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pass' in 'field list' in /home/wizerent/public_html/func/updatetable.php:15
+Stack trace:
+#0 /home/wizerent/public_html/func/updatetable.php(15): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(6): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/updatetable.php on line 15
+[08-Dec-2024 17:38:23 Asia/Tbilisi] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/wizerent/public_html/func/updatetable.php on line 2
+[08-Dec-2024 17:38:23 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pass' in 'field list' in /home/wizerent/public_html/func/updatetable.php:15
+Stack trace:
+#0 /home/wizerent/public_html/func/updatetable.php(15): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(6): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/updatetable.php on line 15
+[08-Dec-2024 17:39:16 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 137
+[08-Dec-2024 17:39:16 Asia/Tbilisi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wizerent/public_html/vendor/mpdf/mpdf/src/Mpdf.php:9438) in /home/wizerent/public_html/func/invoice.php on line 138
+[08-Dec-2024 17:39:16 Asia/Tbilisi] PHP Warning:  readfile(invice9.pdf): Failed to open stream: No such file or directory in /home/wizerent/public_html/func/invoice.php on line 139
+[08-Dec-2024 17:39:36 Asia/Tbilisi] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/wizerent/public_html/func/updatetable.php on line 2
+[08-Dec-2024 17:39:36 Asia/Tbilisi] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pass' in 'field list' in /home/wizerent/public_html/func/updatetable.php:15
+Stack trace:
+#0 /home/wizerent/public_html/func/updatetable.php(15): mysqli_query()
+#1 /home/wizerent/public_html/func/func.php(6): include('/home/wizerent/...')
+#2 {main}
+  thrown in /home/wizerent/public_html/func/updatetable.php on line 15
+[21-Jan-2025 11:06:12 Asia/Tbilisi] PHP Warning:  Undefined array key "fname" in /home/boschge/public_html/func/func.php on line 8
+[21-Jan-2025 11:06:12 Asia/Tbilisi] PHP Warning:  include(.php): Failed to open stream: No such file or directory in /home/boschge/public_html/func/func.php on line 9
+[21-Jan-2025 11:06:12 Asia/Tbilisi] PHP Warning:  include(.php): Failed to open stream: No such file or directory in /home/boschge/public_html/func/func.php on line 9
+[21-Jan-2025 11:06:12 Asia/Tbilisi] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/boschge/public_html/func/func.php on line 9

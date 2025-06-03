@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="18px" viewBox="0 0 14 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>top_nav</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="menu" transform="translate(-1221.000000, -17.000000)" fill="#FFFFFF">
+            <g id="Group-16">
+                <g id="Group-2" transform="translate(473.000000, 16.000000)">
+                    <g id="top_nav" transform="translate(748.000000, 1.000000)">
+                        <g id="Group-10">
+                            <path d="M12.5,4 L11,4 L11,3.501 C11,1.339 8.924,0 7,0 C5.076,0 3,1.339 3,3.501 L3,4 L1.5,4 C0.673,4 0,4.674 0,5.5 L0,16.5 C0,17.328 0.673,18 1.5,18 L12.5,18 C13.327,18 14,17.328 14,16.5 L14,5.5 C14,4.674 13.327,4 12.5,4 L12.5,4 Z M4,3.501 C4,2 5.5,1 7,1 C8.5,1 10,2 10,3.501 L10,4 L4,4 L4,3.501 L4,3.501 Z M13,16.4999583 C13,16.7769814 12.776,17 12.5,17 L1.5,17 C1.224,17 1,16.7769814 1,16.4999583 L1,5.49904159 C1,5.22301858 1.224,5 1.5,5 L12.5,5 C12.776,5 13,5.22301858 13,5.49904159 L13,16.4999583 L13,16.4999583 Z" id="winkelmand"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

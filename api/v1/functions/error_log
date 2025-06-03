@@ -1,0 +1,22 @@
+[12-Nov-2024 20:51:37 UTC] PHP Warning:  Undefined variable $m in /home/intelect/public_html/api/v1/functions/products.php on line 5
+[12-Nov-2024 20:51:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intelect/public_html/api/v1/functions/products.php on line 5
+[12-Nov-2024 20:51:37 UTC] PHP Warning:  Undefined variable $m in /home/intelect/public_html/api/v1/functions/products.php on line 6
+[12-Nov-2024 20:51:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intelect/public_html/api/v1/functions/products.php on line 6
+[12-Nov-2024 20:51:37 UTC] PHP Warning:  Undefined variable $m in /home/intelect/public_html/api/v1/functions/products.php on line 7
+[12-Nov-2024 20:51:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intelect/public_html/api/v1/functions/products.php on line 7
+[12-Nov-2024 20:51:37 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /home/intelect/public_html/api/v1/functions/products.php:8
+Stack trace:
+#0 /home/intelect/public_html/api/v1/functions/products.php(8): array_map('intval', NULL)
+#1 {main}
+  thrown in /home/intelect/public_html/api/v1/functions/products.php on line 8
+[12-Nov-2024 20:51:50 UTC] PHP Warning:  Undefined variable $m in /home/intelect/public_html/api/v1/functions/products.php on line 5
+[12-Nov-2024 20:51:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intelect/public_html/api/v1/functions/products.php on line 5
+[12-Nov-2024 20:51:50 UTC] PHP Warning:  Undefined variable $m in /home/intelect/public_html/api/v1/functions/products.php on line 6
+[12-Nov-2024 20:51:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intelect/public_html/api/v1/functions/products.php on line 6
+[12-Nov-2024 20:51:50 UTC] PHP Warning:  Undefined variable $m in /home/intelect/public_html/api/v1/functions/products.php on line 7
+[12-Nov-2024 20:51:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intelect/public_html/api/v1/functions/products.php on line 7
+[12-Nov-2024 20:51:50 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /home/intelect/public_html/api/v1/functions/products.php:8
+Stack trace:
+#0 /home/intelect/public_html/api/v1/functions/products.php(8): array_map('intval', NULL)
+#1 {main}
+  thrown in /home/intelect/public_html/api/v1/functions/products.php on line 8
