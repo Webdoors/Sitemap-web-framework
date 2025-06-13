@@ -49,4 +49,4 @@ infowindow2.close();
 }
 </script>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBtjpdLIjhywzr2QZBamJXeijRkE1Zy3is&callback=myMap"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=***********&callback=myMap"></script>
