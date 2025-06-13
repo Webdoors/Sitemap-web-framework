@@ -19,8 +19,8 @@ curl_setopt_array($curl, array(
   CURLOPT_POSTFIELDS => "grant_type=client_credentials",
   CURLOPT_HTTPHEADER => array(
     "Content-Type: application/x-www-form-urlencoded",
-    "apikey: ecYSFMK8ptvd4PtnHKEH0W1SVg4cn35J",
-    "Authorization: Bearer ".base64_encode("7000534:I69NVWdBWWq9bJGJ"),
+    "apikey: *******",
+    "Authorization: Bearer ".base64_encode("7000534:*******"),
   ),
 ));
 // echo base64_encode("2541:451342484ecca4b702c4a0894c70873c");

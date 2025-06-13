@@ -43,7 +43,7 @@ curl_setopt_array($curl, array(
   CURLOPT_POSTFIELDS => 'grant_type=client_credentials&scope=online_installments',
   CURLOPT_HTTPHEADER => array(
     'Content-Type: application/x-www-form-urlencoded',
-    'Authorization: Basic ZWNZU0ZNSzhwdHZkNFB0bkhLRUgwVzFTVmc0Y24zNUo6Mml6ZEQwa2Z0RjR3Y0U4Ug=='
+    'Authorization: Basic *******'
   ),
 ));
 
@@ -67,7 +67,7 @@ curl_setopt_array($curl, array(
   CURLOPT_CUSTOMREQUEST => 'POST',
   CURLOPT_HEADER=>1,
   CURLOPT_POSTFIELDS =>'{
-  "merchantKey": "204571604-943d9ddb-e583-4763-ae1d-65198c3ea978  ",
+  "merchantKey": "*******",
   "priceTotal": '.$tprice.',
   "campaignId":	"529",
   "invoiceId": "'.rand(11111,99999).'",
@@ -118,7 +118,7 @@ curl_setopt_array($curl, array(
   CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
   CURLOPT_CUSTOMREQUEST => 'POST',
   CURLOPT_POSTFIELDS =>'{
-  "merchantKey": "204571604-943d9ddb-e583-4763-ae1d-65198c3ea978  "
+  "merchantKey": "*******"
 }',
   CURLOPT_HTTPHEADER => array(
     'Authorization: Bearer '.$token,

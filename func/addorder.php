@@ -63,7 +63,7 @@ if(!in_array($method,$nonstatus)){
 			  $tel=$ruser['tel']; 
 			  $tex=urlencode("https://". $_SERVER['HTTP_HOST'] ."/i/".encrypt_decrypt("encrypt",json_encode([$rord['id'],time()]))); 
 			  // echo $tel;
-					$url = 'http://bi.msg.ge/sendsms.php?username=iphone&password=yrUJ0sSf2l&client_id=784&utf=1&service_id=2410&to=+995'.$tel.'&text=თქვენი შეკვეთა მიღებულია '.$tex;
+					$url = 'http://bi.msg.ge/sendsms.php?username=iphone&password=*******&client_id=784&utf=1&service_id=2410&to=+995'.$tel.'&text=თქვენი შეკვეთა მიღებულია '.$tex;
 
 			
 			/* send sms */
@@ -147,7 +147,7 @@ if(!in_array($method,$nonstatus)){
 
 }
 function sendsms($tel,$text){
-			$url = 'http://bi.msg.ge/sendsms.php?username=iphone&password=yrUJ0sSf2l&client_id=784&utf=1&service_id=2410&to=+995'.$tel.'&text='.$text;
+			$url = 'http://bi.msg.ge/sendsms.php?username=iphone&password=*******&client_id=784&utf=1&service_id=2410&to=+995'.$tel.'&text='.$text;
 			$ch = curl_init();
 			curl_setopt($ch, CURLOPT_POST, false );
 			curl_setopt($ch, CURLOPT_URL, $url );

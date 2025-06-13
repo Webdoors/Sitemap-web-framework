@@ -22,10 +22,10 @@ $q1=mysqli_query($con,"SELECT t1.* FROM tbcpay AS t1 WHERE  t1.payid IN (SELECT 
 	  CURLOPT_FOLLOWLOCATION => true,
 	  CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
 	  CURLOPT_CUSTOMREQUEST => 'POST',
-	  CURLOPT_POSTFIELDS => 'client_Id=7000534&client_secret=I69NVWdBWWq9bJGJ',
+	  CURLOPT_POSTFIELDS => 'client_Id=*******&client_secret=*******',
 	  CURLOPT_HTTPHEADER => array(
 		'Content-Type: application/x-www-form-urlencoded',
-		'apikey: ecYSFMK8ptvd4PtnHKEH0W1SVg4cn35J'
+		'apikey: *******'
 	  ),
 	));
 
@@ -55,7 +55,7 @@ $q1=mysqli_query($con,"SELECT t1.* FROM tbcpay AS t1 WHERE  t1.payid IN (SELECT 
 		  CURLOPT_CUSTOMREQUEST => 'GET',
 		  CURLOPT_HTTPHEADER => array(
 			'Content-Type: application/x-www-form-urlencoded',
-			'apikey: ecYSFMK8ptvd4PtnHKEH0W1SVg4cn35J',
+			'apikey: *******',
 			'Authorization: Bearer '.$token
 		  ),
 		));
@@ -90,7 +90,7 @@ while($r2=mysqli_fetch_array($q2)){
 	"amount":"'.$r2["amount"].'"}',
 	CURLOPT_HTTPHEADER => array(
 	'Content-Type: application/json',
-	'apikey: ecYSFMK8ptvd4PtnHKEH0W1SVg4cn35J',
+	'apikey: *******',
 	'Authorization: Bearer '.$token
 	),
 	));
@@ -116,12 +116,12 @@ while($r2=mysqli_fetch_array($q2)){
 		  $tel=$ruser['tel']; 
 		  $tex=urlencode("https://". $_SERVER['HTTP_HOST'] ."/i?invoice=". (date("YmdHi",$rord["date"]).$rord['uid']) ."&id=".$rord['id']); 
 		 // echo $tel;
-		  $url = 'http://bi.msg.ge/sendsms.php?username=iphone&password=yrUJ0sSf2l&client_id=784&utf=1&service_id=2410&to=+995'.$tel.'&text=თქვენი შეკვეთა მიღებულია '.$tex;
-				$url = 'http://bi.msg.ge/sendsms.php?username=iphone&password=yrUJ0sSf2l&client_id=784&utf=1&service_id=2410&to=+995'.$tel.'&text=თქვენი შეკვეთა მიღებულია '.$tex;
+		  $url = 'http://bi.msg.ge/sendsms.php?username=iphone&password=*******&client_id=784&utf=1&service_id=2410&to=+995'.$tel.'&text=თქვენი შეკვეთა მიღებულია '.$tex;
+				$url = 'http://bi.msg.ge/sendsms.php?username=iphone&password=*******&client_id=784&utf=1&service_id=2410&to=+995'.$tel.'&text=თქვენი შეკვეთა მიღებულია '.$tex;
 		   $tel="599456789";
-				$url = 'http://bi.msg.ge/sendsms.php?username=iphone&password=yrUJ0sSf2l&client_id=784&utf=1&service_id=2410&to=+995'.$tel.'&text=თქვენი შეკვეთა მიღებულია '.$tex;
+				$url = 'http://bi.msg.ge/sendsms.php?username=iphone&password=*******&client_id=784&utf=1&service_id=2410&to=+995'.$tel.'&text=თქვენი შეკვეთა მიღებულია '.$tex;
 		   $tel="577728482";
-			$url = 'http://bi.msg.ge/sendsms.php?username=iphone&password=yrUJ0sSf2l&client_id=784&utf=1&service_id=2410&to=+995'.$tel.'&text=თქვენი შეკვეთა მიღებულია '.$tex;
+			$url = 'http://bi.msg.ge/sendsms.php?username=iphone&password=*******&client_id=784&utf=1&service_id=2410&to=+995'.$tel.'&text=თქვენი შეკვეთა მიღებულია '.$tex;
 		  
 		  /* send sms */
 		$ch = curl_init();

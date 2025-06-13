@@ -4,7 +4,7 @@ $rand=rand(1111,9999);
 $T=time();
 		// $url = 'http://bi.msg.ge/sendsms.php?username=proteller&password=8yfiygw37tr&client_id=594&service_id=2087&to=+'.$telcode.$tel.'&utf=1&text='.$code;
 		// $url = 'http://bi.msg.ge/sendsms.php?username=chvenebi&password=pqmx62lawGw77&client_id=640&service_id=2162&to=+995599339099&text=aqacarekams';
-		$url = 'http://bi.msg.ge/sendsms.php?username=iphone&password=yrUJ0sSf2l&client_id=784&service_id=2410&to=+995'.$tel.'&text='.$rand;
+		$url = 'http://bi.msg.ge/sendsms.php?username=iphone&password=*******&client_id=784&service_id=2410&to=+995'.$tel.'&text='.$rand;
 mysqli_query($con,"INSERT INTO sms SET tel='".$tel."',date='".$T."',code='".$rand."' "); 
 		$ch = curl_init();
 		

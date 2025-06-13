@@ -16,10 +16,10 @@ curl_setopt_array($curl, array(
   CURLOPT_FOLLOWLOCATION => true,
   CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
   CURLOPT_CUSTOMREQUEST => 'POST',
-  CURLOPT_POSTFIELDS => 'client_Id=7000534&client_secret=I69NVWdBWWq9bJGJ',
+  CURLOPT_POSTFIELDS => 'client_Id=*******&client_secret=*******',
   CURLOPT_HTTPHEADER => array(
     'Content-Type: application/x-www-form-urlencoded',
-    'apikey: ecYSFMK8ptvd4PtnHKEH0W1SVg4cn35J'
+    'apikey: *******'
   ),
 ));
 
@@ -81,7 +81,7 @@ curl_setopt_array($curl, array(
 ',
   CURLOPT_HTTPHEADER => array(
     'Content-Type: application/json',
-    'apikey: ecYSFMK8ptvd4PtnHKEH0W1SVg4cn35J',
+    'apikey: *******',
     'Authorization: Bearer '.$token
   ),
 ));
